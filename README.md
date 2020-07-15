@@ -1,5 +1,5 @@
 # A typical college website.
-
+**Access the website on https://sandy9808.github.io/My-college-website/**
 This website is **not responsive** yet!
 
 
